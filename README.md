@@ -10,3 +10,5 @@ cd SPAM-SMSUNLI
 python spam11.py {nomor} {jumlah spam}
 </code></pre>
 Format : 08xxx
+
+Mampir gan https://github.com/AbilSeno
